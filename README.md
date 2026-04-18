@@ -1,1 +1,7 @@
-This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
+This project is to build up a music store database from scratch which includes:
+1) Creating database
+2) Importing data from multiple csv files
+3) Defining PK and FK for each table
+4) Solving practical changelleges
+
+I hope you have fun with this!
